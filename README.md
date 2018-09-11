@@ -5,6 +5,4 @@
 
 2. The numerical calculations are debugged. 
 
-3. The semantics related findings can be used to solve this problem.
-
-
+3. The semantics related findings can be used to solve the logical errors.
